@@ -1,6 +1,6 @@
 # React Veterinarian App
 
-![Screenshop](https://raw.githubusercontent.com/Angstromico/Veterinarian-React/master/Budget.png)
+![Screenshop](https://raw.githubusercontent.com/Angstromico/Veterinarian-React/master/Veterinarian.png)
 
 # [See The App Here](https://veterinarian-consult-react.netlify.app)
 
